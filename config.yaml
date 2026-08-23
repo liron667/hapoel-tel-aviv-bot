@@ -1,6 +1,6 @@
 # Hapoel Tel Aviv (football) news bot. TARGET_CHANNEL_ID env var (or .env) overrides target_channel_id.
 
-target_channel_id: "-1004309984018"
+target_channel_id: ""      # set via TARGET_CHANNEL_ID secret / .env
 lookback_hours: 3
 seen_retention_days: 30
 
